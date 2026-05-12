@@ -8,7 +8,7 @@ This repository contains all IT class materials.
 
 # PPT Presentation
 
-- [Download PPT]()
+- [Download PPT](https://drive.google.com/file/d/1lh1k3Uqei96KmB0omOAav9XzYSjwbImG/view?usp=sharing)
 
 ---
 
